@@ -1,0 +1,56 @@
+{
+  "calzadosAdulto": [
+    {
+      "articulo": "322",
+      "marca": "jaguar",
+      "id": 6
+    },
+    {
+      "articulo": "2547",
+      "marca": "proforce",
+      "id": 7
+    },
+    {
+      "articulo": "9030",
+      "marca": "proforce",
+      "id": 8
+    },
+    {
+      "articulo": "9030",
+      "marca": "Jaguar",
+      "id": 9
+    },
+    {
+      "articulo": "333",
+      "marca": "pelotudo",
+      "id": 10
+    }
+  ],
+  "calzadosNinos": [
+    {
+      "id": 1,
+      "articulo": "128",
+      "marca": "jaguar"
+    },
+    {
+      "id": 2,
+      "articulo": "000",
+      "marca": "heyday"
+    },
+    {
+      "id": 3,
+      "articulo": "512",
+      "marca": "e&g"
+    },
+    {
+      "id": 4,
+      "articulo": "2021",
+      "marca": "tridy"
+    },
+    {
+      "id": 5,
+      "articulo": "332",
+      "marca": "proforce"
+    }
+  ]
+}
